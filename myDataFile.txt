@@ -1,6 +1,1 @@
-Welcome to today Session
-Todays it gonna be awesome
-File Handling in Python is the ability to perform various operations on files,
-like reading from and writing to them. Files are used to store data permanently 
-(like text documents, images, or spreadsheets). Unlike variables, which lose their values when a program ends,
-files provide persistent storage.
+This is a write test

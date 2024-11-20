@@ -1,0 +1,3 @@
+The open() function is used to open a file in Python. It takes two main arguments
+file The name or path of the file.
+mode Specifies the purpose (e.g., read, write, append).

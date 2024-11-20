@@ -1,9 +1,25 @@
-file = open('myDataFile.txt', 'r')
+# Open a file in read mode
+file = open("example.txt", 'r')
 
-print(file.readline())
+# Always close after use
+file.close()
 
-writedoc = open("myDatFile.txt")
-writedoc.write("This is a write test")
+
+
+
+# # Open the file in write mode (this creates the file if it doesn't exist)
+# try:
+#     writedoc = open("myDataFile.txt", 'w')  # 'w' creates/overwrites the file
+#     writedoc.write("This is a write test")  # Write content to the file
+#     print("Content written successfully!")
+# except Exception as e:
+#     print(f"An error occurred: {e}")  # Handle potential errors
+# finally:
+#     writedoc.close()  # Close the file
+
+
+# file
+
 
 # f1 = open("myDataFile.txt", "r")
 
