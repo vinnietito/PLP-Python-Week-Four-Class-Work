@@ -1,3 +1,10 @@
+file = open('myDataFile.txt', 'r')
+
+print(file.readline())
+
+writedoc = open("myDatFile.txt")
+writedoc.write("This is a write test")
+
 # f1 = open("myDataFile.txt", "r")
 
 # print(f1)
