@@ -1,10 +1,10 @@
 a = 5
-b = "h"
+b = 3
 
 #print(a/b)
 try:
     print(a/b)
-    k = int(input("ENter a number: "))
+    k = int(input("Enter a number: "))
 except ZeroDivisionError:
     print("You can't divide this with zero")
 except ValueError:
