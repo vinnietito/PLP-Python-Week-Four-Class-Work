@@ -1,5 +1,5 @@
 a = 5
-b = h
+b = "h"
 
 #print(a/b)
 try:
